@@ -35,7 +35,8 @@ I'm open to collaborating on:
 <!-- Get in Touch -->
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-muriuki-6a71901ba/) or [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ianmuriuki48@gmail.com).
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ianmuriuki48@gmail.com) ![Ian Muriuki](https://img.shields.io/badge/Ian_Muriuki-008000?style=for-the-badge&logo=&logoColor=white) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-muriuki-6a71901ba/)
+
 
 <!-- Fun Fact -->
 ## 😄 Fun Fact
